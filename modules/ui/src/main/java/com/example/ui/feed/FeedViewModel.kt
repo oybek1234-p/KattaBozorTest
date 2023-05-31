@@ -3,7 +3,7 @@ package com.example.ui.feed
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.example.data.api.base.ProductRepository
-import com.example.data.api.model.Product
+import com.example.data.api.product.model.Product
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 

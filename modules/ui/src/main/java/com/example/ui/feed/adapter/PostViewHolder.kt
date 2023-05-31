@@ -3,7 +3,7 @@ package com.example.ui.feed.adapter
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.core.math.MathUtils
 import androidx.recyclerview.widget.RecyclerView
-import com.example.data.api.model.Product
+import com.example.data.api.product.model.Product
 import com.example.ui.databinding.ProductItemBinding
 
 class PostViewHolder(val binding: ProductItemBinding) : RecyclerView.ViewHolder(binding.root) {

@@ -1,7 +1,7 @@
 package com.example.ui.feed.adapter
 
 import androidx.recyclerview.widget.DiffUtil
-import com.example.data.api.model.Product
+import com.example.data.api.product.model.Product
 
 class PostDiff : DiffUtil.ItemCallback<Product>() {
 

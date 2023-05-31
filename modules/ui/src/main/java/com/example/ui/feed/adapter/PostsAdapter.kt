@@ -3,7 +3,7 @@ package com.example.ui.feed.adapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.ListAdapter
-import com.example.data.api.model.Product
+import com.example.data.api.product.model.Product
 import com.example.ui.databinding.ProductItemBinding
 
 class PostsAdapter(
