@@ -4,4 +4,6 @@
 * Структура: MVVM
 * Dependecy injection: Hilt
 * Модули: ui, data, commons
+* Кодинг: Solid
+
 
