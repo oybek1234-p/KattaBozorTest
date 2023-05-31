@@ -5,5 +5,8 @@
 * Dependecy injection: Hilt
 * Модули: ui, data, commons
 * Кодинг: Solid
+* Для Networking : Retrofit
+
+Все модули находится в modules.
 
 
