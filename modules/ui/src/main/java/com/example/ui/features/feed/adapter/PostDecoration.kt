@@ -1,4 +1,4 @@
-package com.example.ui.feed.adapter
+package com.example.ui.features.feed.adapter
 
 import android.graphics.Rect
 import android.view.View

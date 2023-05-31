@@ -1,4 +1,4 @@
-package com.example.ui.feed
+package com.example.ui.features.feed
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
@@ -13,7 +13,7 @@ class FeedViewModel @Inject constructor(
 ) : ViewModel() {
 
     var products = MutableLiveData<ArrayList<Product>>()
-    var error = MutableLiveData<Throwable>()
+    private var error = MutableLiveData<Throwable>()
     var loading = MutableLiveData<Boolean>()
 
     private var cache = ArrayList<Product>()

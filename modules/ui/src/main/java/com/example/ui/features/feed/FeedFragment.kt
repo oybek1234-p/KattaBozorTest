@@ -1,4 +1,4 @@
-package com.example.ui.feed
+package com.example.ui.features.feed
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -10,8 +10,8 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.StaggeredGridLayoutManager
 import com.example.commons.visibleOrGone
 import com.example.ui.databinding.FeedFragmentBinding
-import com.example.ui.feed.adapter.PostsAdapter
-import com.example.ui.feed.adapter.postDecoration
+import com.example.ui.features.feed.adapter.PostsAdapter
+import com.example.ui.features.feed.adapter.postDecoration
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch
 

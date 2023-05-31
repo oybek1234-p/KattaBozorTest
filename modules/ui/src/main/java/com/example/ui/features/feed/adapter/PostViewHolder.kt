@@ -1,4 +1,4 @@
-package com.example.ui.feed.adapter
+package com.example.ui.features.feed.adapter
 
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.core.math.MathUtils

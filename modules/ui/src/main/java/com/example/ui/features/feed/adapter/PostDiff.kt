@@ -1,4 +1,4 @@
-package com.example.ui.feed.adapter
+package com.example.ui.features.feed.adapter
 
 import androidx.recyclerview.widget.DiffUtil
 import com.example.data.api.product.model.Product

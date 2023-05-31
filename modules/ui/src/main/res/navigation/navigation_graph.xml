@@ -6,6 +6,6 @@
 
     <fragment
         android:id="@+id/feedFragment"
-        android:name="com.example.ui.feed.FeedFragment"
+        android:name="com.example.ui.features.feed.FeedFragment"
         android:label="FeedFragment" />
 </navigation>

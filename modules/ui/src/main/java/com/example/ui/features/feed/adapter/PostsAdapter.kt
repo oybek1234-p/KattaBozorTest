@@ -1,4 +1,4 @@
-package com.example.ui.feed.adapter
+package com.example.ui.features.feed.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
